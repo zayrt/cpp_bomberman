@@ -1,11 +1,11 @@
 //
-// Map.hpp for coremap in /home/benkha_z/bomberman
+// CoreMap.hpp for  in /home/zellou_i/rendu/cpp_bomberman
 // 
-// Made by zakaria benkhalifa
-// Login   <benkha_z@epitech.net>
+// Made by ilyas zelloufi
+// Login   <zellou_i@epitech.net>
 // 
-// Started on  Tue Jun 10 15:47:41 2014 zakaria benkhalifa
-// Last update Sat Jun 14 22:43:13 2014 Jean Luc TANG
+// Started on  Mon Jul  7 12:42:33 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:42:34 2014 ilyas zelloufi
 //
 
 #ifndef COREMAP_HPP_

@@ -1,11 +1,11 @@
 //
-// main.cpp for bomberman in /home/tang_j/bomberman
+// main.cpp for  in /home/zellou_i/rendu/cpp_bomberman
 // 
-// Made by Jean Luc TANG
-// Login   <tang_j@epitech.net>
+// Made by ilyas zelloufi
+// Login   <zellou_i@epitech.net>
 // 
-// Started on  Sun Jun 15 02:34:46 2014 Jean Luc TANG
-// Last update Sun Jun 15 02:34:55 2014 Jean Luc TANG
+// Started on  Mon Jul  7 12:41:18 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:41:19 2014 ilyas zelloufi
 //
 
 #include <cstdlib>

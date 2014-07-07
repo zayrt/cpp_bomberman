@@ -1,11 +1,11 @@
 //
-// Map.cpp for map in /home/benkha_z/rendu/nibbler/cpp_nibbler
+// CoreMap.cpp for  in /home/zellou_i/rendu/cpp_bomberman
 // 
-// Made by zakaria benkhalifa
-// Login   <benkha_z@epitech.net>
+// Made by ilyas zelloufi
+// Login   <zellou_i@epitech.net>
 // 
-// Started on  Tue Jun 10 14:36:10 2014 zakaria benkhalifa
-// Last update Sun Jun 15 14:54:07 2014 Jean Luc TANG
+// Started on  Mon Jul  7 12:42:41 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:42:42 2014 ilyas zelloufi
 //
 
 #include "CoreMap.hpp"

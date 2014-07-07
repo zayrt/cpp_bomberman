@@ -1,11 +1,11 @@
 //
-// Marvin.hpp for marvin in /home/zellou_i/LibBomberman_linux_x64
-//
+// Marvin.hpp for  in /home/zellou_i/rendu/cpp_bomberman
+// 
 // Made by ilyas zelloufi
 // Login   <zellou_i@epitech.net>
-//
-// Started on  Wed Jun  4 22:10:55 2014 ilyas zelloufi
-// Last update Sun Jun 15 14:58:45 2014 Jean Luc TANG
+// 
+// Started on  Mon Jul  7 12:43:16 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:43:17 2014 ilyas zelloufi
 //
 
 #ifndef		MARVIN_HPP_

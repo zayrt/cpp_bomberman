@@ -1,11 +1,11 @@
 //
-// AObject.hpp for aobjet in /home/zellou_i/LibBomberman_linux_x64
-//
+// AObject.hpp for  in /home/zellou_i/rendu/cpp_bomberman
+// 
 // Made by ilyas zelloufi
 // Login   <zellou_i@epitech.net>
-//
-// Started on  Tue Jun 10 14:08:57 2014 ilyas zelloufi
-// Last update Sun Jun 15 14:59:33 2014 Jean Luc TANG
+// 
+// Started on  Mon Jul  7 12:42:51 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:42:52 2014 ilyas zelloufi
 //
 
 #ifndef		AOBJECT_HPP_

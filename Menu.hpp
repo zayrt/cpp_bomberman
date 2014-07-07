@@ -1,11 +1,11 @@
 //
-// Menu.hpp for bomberman in /home/tang_j/tmp
+// Menu.hpp for  in /home/zellou_i/rendu/cpp_bomberman
 // 
-// Made by Jean Luc TANG
-// Login   <tang_j@epitech.net>
+// Made by ilyas zelloufi
+// Login   <zellou_i@epitech.net>
 // 
-// Started on  Fri Jun 13 19:38:08 2014 Jean Luc TANG
-// Last update Sat Jun 14 23:43:56 2014 Jean Luc TANG
+// Started on  Mon Jul  7 12:41:37 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:41:39 2014 ilyas zelloufi
 //
 
 #ifndef		MENU_HPP_

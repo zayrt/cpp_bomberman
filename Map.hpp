@@ -1,11 +1,11 @@
 //
-// Map.hpp for bomberman in /home/tang_j/bomberman
-//
-// Made by Jean Luc TANG
-// Login   <tang_j@epitech.net>
-//
-// Started on  Tue Jun  3 21:06:44 2014 Jean Luc TANG
-// Last update Sat Jun 14 23:34:08 2014 Jean Luc TANG
+// Map.hpp for  in /home/zellou_i/rendu/cpp_bomberman
+// 
+// Made by ilyas zelloufi
+// Login   <zellou_i@epitech.net>
+// 
+// Started on  Mon Jul  7 12:43:04 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:43:05 2014 ilyas zelloufi
 //
 
 #ifndef			MAP_HPP_

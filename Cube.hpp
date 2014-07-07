@@ -1,11 +1,11 @@
 //
-// Cube.hpp for cube in /home/zellou_i/LibBomberman_linux_x64
-//
+// Cube.hpp for  in /home/zellou_i/rendu/cpp_bomberman
+// 
 // Made by ilyas zelloufi
 // Login   <zellou_i@epitech.net>
-//
-// Started on  Tue Jun 10 14:20:38 2014 ilyas zelloufi
-// Last update Sun Jun 15 14:11:18 2014 Jean Luc TANG
+// 
+// Started on  Mon Jul  7 12:42:03 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:42:04 2014 ilyas zelloufi
 //
 
 #ifndef		CUBE_HPP_

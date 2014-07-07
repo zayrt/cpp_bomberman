@@ -1,11 +1,11 @@
 //
-// Icon.hpp for Icon in /home/tang_j/bomberman
+// Icon.hpp for  in /home/zellou_i/rendu/cpp_bomberman
 // 
-// Made by Jean Luc TANG
-// Login   <tang_j@epitech.net>
+// Made by ilyas zelloufi
+// Login   <zellou_i@epitech.net>
 // 
-// Started on  Fri Jun 13 00:40:18 2014 Jean Luc TANG
-// Last update Sun Jun 15 14:48:43 2014 Jean Luc TANG
+// Started on  Mon Jul  7 12:41:51 2014 ilyas zelloufi
+// Last update Mon Jul  7 12:41:54 2014 ilyas zelloufi
 //
 
 #ifndef			ICON_HPP_
